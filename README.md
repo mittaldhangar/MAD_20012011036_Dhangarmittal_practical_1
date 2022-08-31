@@ -19,3 +19,4 @@ ANS:9
 ANS:10
 ![Screenshot 2022-08-31 093848](https://user-images.githubusercontent.com/112333821/187593373-16cc2570-274f-47eb-b6a2-f64e47adaf11.png)
 ANS:11
+![Screenshot 2022-08-31 094001](https://user-images.githubusercontent.com/112333821/187593431-8b11b04a-cc86-47b6-9122-66e23b10dd4c.png)
