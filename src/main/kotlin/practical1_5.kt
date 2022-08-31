@@ -1,6 +1,6 @@
 fun main(args:Array<String>){
 
-    println("please Enter the number bitween 1-12")
+    println("please Enter the number between 1-12")
     val number = readLine()!!.toInt()
 
     when(number){
