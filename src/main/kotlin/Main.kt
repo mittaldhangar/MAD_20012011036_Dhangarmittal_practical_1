@@ -1,12 +1,12 @@
 fun main(args:Array<String>){
 
-    val value1:Int = 22
-    val value2: Float = 1.5f
+    val value1:Int = 15
+    val value2: Float = 2.5f
     val value3 :Char= 'T'
-    val value4 :String ="sendhav nikhar"
+    val value4 :String ="Dhangar Mittal"
     val value5 :Boolean = true
-    val value6:Double = 90.89
-    val value7 :Long = 38298944
+    val value6:Double = 88.89
+    val value7 :Long = 38299944
     val value8:Short = -2
     val value9 :Byte = 127
 
