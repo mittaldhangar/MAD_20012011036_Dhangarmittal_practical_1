@@ -10,3 +10,12 @@ ANS:5
 ![Screenshot 2022-08-31 092933](https://user-images.githubusercontent.com/112333821/187592640-306670f0-af60-4628-83d4-82284cba5ffc.png)
 ANS:6
 ![Screenshot 2022-08-31 093341](https://user-images.githubusercontent.com/112333821/187593017-cfa3eaf4-16dc-45aa-b902-a1ab5d9b8213.png)
+ANS:7
+
+ANS:8
+
+ANS:9
+
+ANS:10
+
+ANS:11
