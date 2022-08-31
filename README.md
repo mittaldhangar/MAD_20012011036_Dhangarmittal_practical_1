@@ -17,5 +17,5 @@ ANS:8
 ANS:9
 ![Screenshot 2022-08-31 093802](https://user-images.githubusercontent.com/112333821/187593321-4ceb2ec4-9fc6-4f5b-b402-37480996227b.png)
 ANS:10
-
+![Screenshot 2022-08-31 093848](https://user-images.githubusercontent.com/112333821/187593373-16cc2570-274f-47eb-b6a2-f64e47adaf11.png)
 ANS:11
