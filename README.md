@@ -8,3 +8,4 @@ ANS:4
 ![Screenshot 2022-08-31 092810](https://user-images.githubusercontent.com/112333821/187592481-6af2c727-a04f-4c4b-bb41-e961577b9ad5.png)
 ANS:5
 ![Screenshot 2022-08-31 092933](https://user-images.githubusercontent.com/112333821/187592640-306670f0-af60-4628-83d4-82284cba5ffc.png)
+ANS:6
