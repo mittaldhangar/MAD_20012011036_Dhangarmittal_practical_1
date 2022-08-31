@@ -1,6 +1,6 @@
 fun main(args:Array<String>){
 
-    val number=1123
+    val number=112
     val number2 : Double = number.toDouble()
     val number3 : String = number.toString()
 
