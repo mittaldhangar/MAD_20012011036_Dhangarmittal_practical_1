@@ -5,3 +5,4 @@ ANS:2
 ANS:3
 ![Screenshot 2022-08-31 092658](https://user-images.githubusercontent.com/112333821/187592322-cb5b5d4d-ae26-4f39-bdb5-d6d9f340829b.png)
 ANS:4
+![Screenshot 2022-08-31 092810](https://user-images.githubusercontent.com/112333821/187592481-6af2c727-a04f-4c4b-bb41-e961577b9ad5.png)
