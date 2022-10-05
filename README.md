@@ -26,6 +26,7 @@ exercise:1
 exercise:2
 ![1_2](https://user-images.githubusercontent.com/112333821/194005547-49399a51-0bc5-425d-9a37-e40a9c482c9f.png)
 ![1_2_2](https://user-images.githubusercontent.com/112333821/194005579-a66fc517-fd62-4015-b527-2745e5a83307.png)
+
 exercise:3
 ![3_1](https://user-images.githubusercontent.com/112333821/194006117-87daf9ec-888e-4b9f-a006-64ed3d3347d4.png)
 ![3_1_2](https://user-images.githubusercontent.com/112333821/194006182-11cb4a63-fccb-4780-9d7f-38e3e4a69c7c.png)
