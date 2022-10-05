@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4241140e-1898-4717-95be-a2e31225a591" name="Changes" comment="this is practical1">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/1_12.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/1_13.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/1_14.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/1_15.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="4241140e-1898-4717-95be-a2e31225a591" name="Changes" comment="this is practical1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -86,7 +80,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661918404049</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="this is practical1">
+      <created>1664948892404</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1664948892404</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
