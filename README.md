@@ -23,3 +23,4 @@ ANS:11
 ![Screenshot 2022-08-31 094108](https://user-images.githubusercontent.com/112333821/187593488-468f8e23-6b02-4ffe-bd6c-be0ad6ad7ec0.png)
 exercise:1
 ![Screenshot 2022-10-05 124614](https://user-images.githubusercontent.com/112333821/194004477-fa442848-6bd7-4b54-9dd5-69a37375d330.png)
+exercise:2
